@@ -3,6 +3,6 @@ This is SCIT-3rdProject
 
 Made By Yeo Myeong Hwan,
         Jeon Hee Bae,
-        Park Chan Joo, ¤Ç¤Ç
+        Park Chan Joo,
         Kang In Seok,
         Kim Jin Hwan,
